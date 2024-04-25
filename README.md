@@ -1,27 +1,26 @@
-# 👋 Olá, eu sou o Gabriel Pinheiro!
+# 👋 Hi, i am Gabriel Pinheiro!
 
 ![Banner do perfil](link para a imagem do banner)
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou trabalhando na [empresa ou projeto atual].
 
-## Sobre mim
+## About me
 
-- 💻 Desenvolvedor Full Stack
-- 📚 Aprendendo sempre mais sobre tecnologia e programação
-- 🚀 Buscando sempre me atualizar com as tendências do mercado
-- 📫 Entre em contato comigo: [seu endereço de e-mail] ou [perfil no LinkedIn](link para seu perfil no LinkedIn)
+- 💻 Back-end Developer
+- 📚 Learning about Data Science
+- 🚀 Always trying to update myself with market trends
+- 📫 Contact me: [E-mail](gabpinheirodev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabrielpinheirodev/)
 
-## Principais projetos
+## Main projects
 
-- [Projeto 1](link para o projeto no GitHub): descrição breve do projeto
-- [Projeto 2](link para o projeto no GitHub): descrição breve do projeto
-- [Projeto 3](link para o projeto no GitHub): descrição breve do projeto
+- [TODO-List Back-end](https://github.com/gabpinhas/TODOlist): A REST API, with Authentication of a TODO-list in Django
+- [REST API](https://github.com/gabpinhas/ceosBackendAPI): A simple REST API, with whole CRUD and a little interface in Django
 
-## Habilidades
+## Skills
 
 ![Ícones de habilidades](link para a imagem com os ícones)
 
-- Linguagens de programação: [linguagens que você domina]
+- Linguagens de programação: [python]
 - Frameworks e bibliotecas: [frameworks e bibliotecas que você conhece]
 - Ferramentas e softwares: [ferramentas e softwares que você sabe utilizar]
 
