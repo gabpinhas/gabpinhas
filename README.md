@@ -61,3 +61,8 @@
 </a>
 </div>
 
+
+![Snake animation](https://github.com/gabpinhas/gabpinhas/blod/output/github-contribuition-grid-snake.svg) 
+
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=gabpinhas&repo=gabpinhas&theme=react)](https://github.com/gabpinhas/gabpinhas)
+
