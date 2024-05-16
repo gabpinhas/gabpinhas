@@ -4,15 +4,13 @@
 
 <div align='left'>
   <a href="https://github.com/gabpinhas">
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabpinhas&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabpinhas&show_icons=true&theme=highcontrast"/>
  </a>
  <a href="httpsv://github.com/gabpinhas">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabpinhas&layout=compact&langs_count=6&theme=highcontrast"/>
  </a>
 </div>
 <br>
-
-
 
 
 
@@ -67,7 +65,7 @@
 
 
 
-## Contato
+## Contact
 <div>
 <a href="gabpinheirodev@gmail.com">
   <img height="60" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
