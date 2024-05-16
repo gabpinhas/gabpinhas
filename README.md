@@ -69,11 +69,11 @@
 
 ## Contato
 <div>
-<a href="https://www.linkedin.com/in/gabrielpinheirodev/">
+<a href="gabpinheirodev@gmail.com">
   <img height="60" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="gabpinheirodev@gmail.com">
+<a href="https://www.linkedin.com/in/gabrielpinheirodev/">
   <img height="60" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
