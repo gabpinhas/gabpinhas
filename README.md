@@ -38,6 +38,23 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gabpinhas/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gabpinhas/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gabpinhas/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 ## About me
 
 💻 Back-end Developer <br>
@@ -50,6 +67,8 @@
 [REST API](https://github.com/gabpinhas/ceosBackendAPI): A simple REST API, with whole CRUD and a little interface in Django <br>
 
 
+
+
 ## Contato
 <div>
 <a href="https://www.linkedin.com/in/gabrielpinheirodev/">
@@ -60,9 +79,3 @@
   <img height="60" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
-
-
-![Snake animation](https://github.com/gabpinhas/gabpinhas/blod/output/github-contribuition-grid-snake.svg) 
-
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=gabpinhas&repo=gabpinhas&theme=react)](https://github.com/gabpinhas/gabpinhas)
-
