@@ -55,7 +55,9 @@
 
 💻 Back-end Developer <br>
 📚 Learning about Data Science <br>
+🔍 Beginner researcher in Optimizations and Algorithms <br>
 🚀 Always trying to update myself with market trends <br>
+
 
 ## Main projects
 
